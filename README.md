@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Este repositório contém o código-fonte do site da Legan Collection, uma loja especializada em joias e semijoias.
+ Legan Collection
 
 ## Tecnologias Utilizadas
 
@@ -13,7 +13,5 @@ Este repositório contém o código-fonte do site da Legan Collection, uma loja 
 
 ## Instruções
 
-1. Clone o repositório para a sua máquina local:
-   ```bash
-   git clone https://github.com/username/LGC2024.git
+
 
