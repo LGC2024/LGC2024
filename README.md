@@ -1,4 +1,4 @@
-- # Legan Collection
+# Legan Collection
 
 ## Sobre
 
@@ -16,3 +16,4 @@ Este repositório contém o código-fonte do site da Legan Collection, uma loja 
 1. Clone o repositório para a sua máquina local:
    ```bash
    git clone https://github.com/username/LGC2024.git
+
